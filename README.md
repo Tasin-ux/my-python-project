@@ -1,1 +1,2 @@
-# my-python-project
+# my-
+This is a python project
